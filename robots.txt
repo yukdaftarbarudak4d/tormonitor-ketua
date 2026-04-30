@@ -1,20 +1,4 @@
 User-agent: *
 Allow: /
 
-# Crawl delay (biar bot rapi)
-Crawl-delay: 5
-
-# Blok file ga penting
-Disallow: /cdn-cgi/
-Disallow: /tmp/
-Disallow: /private/
-
-# Prioritas bot besar
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-# Sitemap
-Sitemap: https://otwrank1dibarudak4d.pages.dev/sitemap.xml
+Sitemap: https://otwrank1dibarudak4d.pages.dev/sitemap1.xml
