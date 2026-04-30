@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Blok folder yang tidak perlu (kalau ada)
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+
+# Sitemap
+Sitemap: https://yukdaftarbarudak4d.pages.dev/sitemap.xml
